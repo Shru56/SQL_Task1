@@ -1,0 +1,12 @@
+Name,Age,Gender,BMI,Children,Smoking Status,Location,Insurance Price (USD)
+John Smith,35,Male,29.5,0,Non-Smoker,New York,16450
+Emily Johnson,42,Female,26.8,2,Non-Smoker,Los Angeles,21600
+Michael Williams,50,Male,31.2,3,Smoker,Chicago,21080
+Sarah Brown,28,Female,22.3,1,Non-Smoker,Houston,10080
+David Jones,39,Male,28.1,2,Non-Smoker,Phoenix,17640
+Jennifer Martinez,45,Female,29.9,0,Non-Smoker,Philadelphia,18000
+Daniel Anderson,33,Male,25.5,1,Non-Smoker,San Antonio,11520
+Jessica Wilson,37,Female,27.4,2,Smoker,San Diego,16120
+Matthew Taylor,47,Male,33,3,Non-Smoker,Dallas,19720
+Emma Garcia,31,Female,24.7,0,Non-Smoker,San Jose,11100
+Christopher Rodriguez,40,Male,30.5,2,Non-Smoker,Austin,18920
