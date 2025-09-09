@@ -1,0 +1,17 @@
+id,college_name,Address,email,phone,student_count,established_date,dept_count,prof_count
+1,Greenfield College,"123 Main St, Springfield","info@greenfield.edu",555-1234,1200,2001-08-15,8,75
+2,Riverdale Institute,"456 River Rd, Riverdale","contact@riverdale.edu",555-5678,950,1998-06-10,6,60
+3,Sunrise University,"789 Sunrise Ave, Sun City","admissions@sunrise.edu",555-9012,1800,1995-09-20,10,120
+4,Hilltop Academy,"321 Hilltop Dr, Hilltown","office@hilltop.edu",555-3456,700,2010-01-05,5,40
+5,Lakeside College,"654 Lakeview Blvd, Lakeside","info@lakeside.edu",555-7890,1100,2005-03-12,7,55
+6,Maplewood College,"987 Maple St, Maple City","info@maplewood.edu",555-2345,1300,2003-11-22,9,80
+7,Oakridge University,"246 Oakridge Ave, Oakville","admissions@oakridge.edu",555-6789,2100,1992-04-18,12,150
+8,Silverlake Institute,"135 Silverlake Rd, Silverlake","contact@silverlake.edu",555-0123,850,2012-07-30,4,35
+9,Redwood Academy,"864 Redwood Dr, Redwood","office@redwood.edu",555-4567,950,2008-02-14,6,50
+10,Bluewater College,"753 Bluewater Blvd, Bluewater","info@bluewater.edu",555-8901,1050,2006-09-25,7,60
+11,Golden Gate University,"159 Golden Gate St, Goldentown","admissions@goldengate.edu",555-2346,1750,1999-12-01,11,110
+12,Sunset Institute,"951 Sunset Ave, Sunset City","contact@sunset.edu",555-6780,900,2011-05-19,5,45
+13,Evergreen College,"357 Evergreen Rd, Evergreen","info@evergreen.edu",555-1235,1250,2002-10-08,8,70
+14,Crystal Lake University,"468 Crystal Lake Dr, Crystal Lake","admissions@crystallake.edu",555-5671,1600,1997-03-21,10,100
+15,Highland Academy,"579 Highland Ave, Highland","office@highland.edu",555-9013,800,2013-08-11,4,30
+
